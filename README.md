@@ -1,6 +1,6 @@
 # ListLength
 
-**TODO: Add description**
+**It counts the number of items of a given list**
 
 ## Installation
 
